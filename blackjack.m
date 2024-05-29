@@ -1,5 +1,6 @@
 function blackjack(action)
    basebet = 100;
+   %eeeeee
    if nargin == 0
       P1 = [];
       P2 = [];
@@ -149,6 +150,7 @@ function blackjack(action)
          return
       end
    end
+   
 
    
    function buttons = initbuttons
